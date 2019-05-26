@@ -16,7 +16,7 @@ Furthermore it would be welcome if they could reach us via well known chat apps 
 
 It is totally clear that there is not a single application what can fulfill all our requirements (at least yet). Thus besides being a mature application (although not all of them in my list are so), it shall allow [SSO](https://en.wikipedia.org/wiki/Single_sign-on) and available as container image.
 
-A good spot starting this research was [LisaDziuba/Awesome-Design-Tools: The best design tools for everything](https://github.com/LisaDziuba/Awesome-Design-Tools) although it doesn't sound like the right starting spot. 
+A good spot starting this research was [LisaDziuba/Awesome-Design-Tools: The best design tools for everything](https://github.com/LisaDziuba/Awesome-Design-Tools) and [Which self hosted programs do you use? — LowEndTalk](https://www.lowendtalk.com/discussion/118849/which-self-hosted-programs-do-you-use) although it doesn't sound like the right starting spot. 
 This repository is inspired by similar to the before mentioned with inspiration from [Open Design: Freeware tools for creatives – UX Planet](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0) filled with answers to our requirements  
 
 </details>
@@ -239,18 +239,19 @@ it is pushed as:
    
 
 13. [Basecamp](https://basecamp.com/) ([partly   open source](https://basecamp.com/about/open-source)), [Jira](https://www.atlassian.com/software/jira)&Trello, [Wrike](https://www.wrike.com/) - project management 
-   
 
-14. 1. [Taiga.io](https://taiga.io/),   SSO (?), [Taiga:Other ways to setupinitial environment](https://taigaio.github.io/taiga-doc/dist/setup-alternatives.html)
+Sources:
+  1. [Is there a resource planning tool you can recommend for nethserver?](https://community.nethserver.org/t/is-there-a-resource-planning-tool-you-can-recommend-for-nethserver/6941)
    
-    2. [EnterpriseOpen Source ProjectManagement Software |Features | OrangeScrum](https://www.orangescrum.org/)
-    3. [OpenProject- online projectmanagement software - freeand open source](https://www.openproject.org/)
-    4. [Freedcamp- Free Project Management](https://freedcamp.com/)
-   
-    5. [Wekan— open-source kanban](https://wekan.github.io/)    
-   
-    6. [Nextcloud](https://nextcloud.com/), [SSO](https://apps.nextcloud.com/apps/user_saml) ok, [Dockeretc](https://nextcloud.com/install/#instructions-server) ok
-    7. with limitations: [Bitrix24:#1 Free CollaborationPlatform With CRM, Tasks,Projects, Documents,Messaging And Much More](https://www.bitrix24.com/)
+Apps:
+   1. [Taiga.io](https://taiga.io/),   SSO (?), [Taiga:Other ways to setupinitial environment](https://taigaio.github.io/taiga-doc/dist/setup-alternatives.html)
+   2. [EnterpriseOpen Source ProjectManagement Software |Features | OrangeScrum](https://www.orangescrum.org/)
+   3. [OpenProject- online projectmanagement software - freeand open source](https://www.openproject.org/)
+   4. [Twproject - Project management software, time tracking software](https://twproject.com/)
+   4. [Freedcamp- Free Project Management](https://freedcamp.com/)
+   5. [Wekan— open-source kanban](https://wekan.github.io/)    
+   6. [Nextcloud](https://nextcloud.com/), but only with limitations, see  [Tasks & Calendar extended to be used as project management tool](https://help.nextcloud.com/t/tasks-calendar-extended-to-be-used-as-project-management-tool/1274) and [Calendar / Tasks in SIMPLE project management](https://help.nextcloud.com/t/calendar-tasks-in-simple-project-management/6993/8)
+   7. with limitations: [Bitrix24:#1 Free CollaborationPlatform With CRM, Tasks,Projects, Documents,Messaging And Much More](https://www.bitrix24.com/)
      
    
 
@@ -260,6 +261,8 @@ it is pushed as:
 16. 1. [Nextcloud](https://nextcloud.com/),   [SSO](https://apps.nextcloud.com/apps/user_saml) ok,   [Dockeretc](https://nextcloud.com/install/#instructions-server) ok
     2. [ownCloud -The leading OpenSourceCloud CollaborationPlatform.](https://owncloud.org/)
     3. [GroupOffice - An open sourceCRM and groupwareapplication](https://www.group-office.com)
+    4. [Home | Open-Xchange](https://www.open-xchange.com/)
+    5. [Open Source Collaboration Software - Future Teamwork | Kopano](https://kopano.com/)
      
    
 
