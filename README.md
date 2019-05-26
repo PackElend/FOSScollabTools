@@ -20,40 +20,174 @@ A good spot starting this research was [LisaDziuba/Awesome-Design-Tools: The bes
 This repository is inspired by similar to the before mentioned with inspiration from [Open Design: Freeware tools for creatives – UX Planet](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0) filled with answers to our requirements  
 
 </details>
+1. slack - workplace group chat    
 
+  as Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some sources I read
+  - [Timeto replace Slack! Who willwin, MatterMost orRiot/Matrix?](https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-riot-matrix-a090e9cdc219) 
+- [It’stime to Riot(.im) – ToplBlog – Medium](https://medium.com/topl-blog/its-time-to-riot-im-8fb95eb39c9a)
+- [Team Chat Recommendation: Mattermost, Riot, Zulip etc. I need low RAM consumption. : selfhosted](https://www.reddit.com/r/selfhosted/comments/9s5fzq/team_chat_recommendation_mattermost_riot_zulip/)  
+- why [Parity Technologies](https://www.parity.io/) switched to Matrix --> [why Team-Messenger:Ab in die Matrix! -Golem.de](https://www.golem.de/news/team-messenger-ab-in-die-matrix-1904-140850.html) 
+       
 
-
-
-
-
-1. slack - workplace group chat
-
-2. 1. [Matrix.org](https://matrix.org/blog/index),   [SSO](https://matrix.org/blog/2018/11/26/this-week-in-matrix-2018-11-26) look   like there is, [Dockeretc.](https://matrix.org/docs/guides/) seems there is   soemthing 
-    --> it offers [manyintegration](https://matrix.org/docs/projects/try-matrix-now.html) ([Riot.im/Web0.12 – Riot.im – Medium](https://medium.com/@RiotChat/riot-im-web-0-12-7c4ea84b180a),   [Bridges| Matrix.org](https://matrix.org/docs/projects/bridges), [MatrixHosted Integrations |Modular](https://modular.im/services/matrix-integrations#bridges)) 
-    --> is pushed as [Matrixand Riot confirmed as thebasis for France's SecureInstant Messenger app |Matrix.org blog](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app), [FOSDEM2019 - Matrix in theFrench State](https://fosdem.org/2019/schedule/event/matrix_french_state/)
-  
-   2. [Mattermost:Open Source, Private CloudSlack Alternative](https://mattermost.com/nonprofit/), [SSO](https://docs.mattermost.com/deployment/sso-saml.html) ok   (but limteation to   licencse), Docker etc. ok
-    --> it offers [a verycomprehensive collection of integrations](https://integrations.mattermost.com/)  
-  
-   3. [Rocket.Chat- Free, Open Source,Enterprise Team Chat](https://rocket.chat/),   [SSO](https://rocket.chat/docs/administrator-guides/authentication/)   ok, [Dockeretc.](https://rocket.chat/install) ok
-    --> it offers not that   many [integrations](https://rocket.chat/docs/administrator-guides/integrations/)   as the others
-    --> is very interesting   in sense of collaboration   as  [Rocket.Chatand Nextcloud announcepartnership andintegration – Nextcloud](https://nextcloud.com/blog/rocket.chat-and-nextcloud-announce-partnership-and-integration/)
-   4. [Zulip - The world’s most productive team chat](https://zulipchat.com/)
-       --> it offers [a very large collectionof integrations](https://integrations.mattermost.com/)  
-       --> [SSO](https://zulipchat.com/security/)
-             
-
-3. - As Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some sources I read
-
-4. 1. 1. [Timeto replace Slack! Who willwin, MatterMost orRiot/Matrix?](https://medium.com/ignation/time-to-replace-slack-who-will-win-mattermost-or-riot-matrix-a090e9cdc219) 
-                  
-      2. [It’stime to Riot(.im) – ToplBlog – Medium](https://medium.com/topl-blog/its-time-to-riot-im-8fb95eb39c9a)
-      3. [Team Chat Recommendation: Mattermost, Riot, Zulip etc. I need low RAM consumption. : selfhosted](https://www.reddit.com/r/selfhosted/comments/9s5fzq/team_chat_recommendation_mattermost_riot_zulip/)  
-      4. why [Parity Technologies](https://www.parity.io/) switched to Matrix --> [why Team-Messenger:Ab in die Matrix! -Golem.de](https://www.golem.de/news/team-messenger-ab-in-die-matrix-1904-140850.html) 
-
-   2. [muut.io](http://muut.io/),    hosted, builder or [FreeVersion | Muut community](https://muut.com/forum/#!/moot/setting-up:free-version) but   limited as e.g. no SSO.   
-    
-  
+<ul>
+	<li>
+			<a href="https://matrix.org/blog/index" target="_blank" rel="noopener">Matrix.org</a>
+		<table>
+			<tbody>
+				<tr>
+					<td style="text-align: center;">
+						<strong>Integration</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Integrations</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Deploy Images</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Remark</strong>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">&nbsp;<a href="https://matrix.org/blog/2018/11/26/this-week-in-matrix-2018-11-26" rel="nofollow">SSO</a>&nbsp;</td>
+					<td valign="top">it offers <a href="https://matrix.org/docs/projects/try-matrix-now.html" rel="nofollow">many integration</a>&nbsp;</td>
+					<td valign="top">looks like there is <a href="https://matrix.org/docs/guides/" rel="nofollow">Docker etc.</a>
+					</td>
+					<td valign="top">
+it is pushed as:
+						<ul>
+							<li>
+								<a href="https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app" rel="nofollow">Matrixand Riot confirmed as thebasis for France's SecureInstant Messenger app |Matrix.org blog</a>
+							</li>
+							<li>
+								<a href="https://fosdem.org/2019/schedule/event/matrix_french_state/" rel="nofollow">FOSDEM2019 - Matrix in theFrench State</a>
+							</li>
+						</ul>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</li>
+	<li>
+		<a href="https://mattermost.com/nonprofit/" target="_blank" rel="nofollow noopener">Mattermost:Open Source, Private CloudSlack Alternative</a>
+		<table>
+			<tbody>
+				<tr>
+					<td style="text-align: center;">
+						<strong>Integration</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Integrations</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Deploy Images</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Remark</strong>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<a href="https://docs.mattermost.com/deployment/sso-saml.html" rel="nofollow">SSO</a> ok (but limteation to licencse)</td>
+					<td valign="top">it offers <a href="https://integrations.mattermost.com/" rel="nofollow">a verycomprehensive collection of integrations</a>
+					</td>
+					<td valign="top">Docker etc. ok</td>
+					<td valign="top">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+  <p>
+  </p>
+	</li>
+	<li>
+			<a href="https://rocket.chat/" target="_blank" rel="nofollow noopener">Rocket.Chat- Free, Open Source,Enterprise Team Chat</a>
+		<table>
+			<tbody>
+				<tr>
+					<td style="text-align: center;">
+						<strong>Integration</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Integrations</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Deploy Images</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Remark</strong>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<a href="https://rocket.chat/docs/administrator-guides/authentication/" rel="nofollow">SSO</a> ok</td>
+					<td valign="top">it offers not that many <a href="https://rocket.chat/docs/administrator-guides/integrations/" rel="nofollow">integrations</a> as the others</td>
+					<td valign="top"><a href="https://rocket.chat/install" rel="nofollow">Docker etc.</a> ok</td>
+					<td valign="top">is very interesting in sense of collaboration as <a href="https://nextcloud.com/blog/rocket.chat-and-nextcloud-announce-partnership-and-integration/" rel="nofollow">Rocket.Chatand Nextcloud announcepartnership andintegration &ndash; Nextcloud</a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</li>
+	<li>
+		<a href="https://zulipchat.com/" target="_blank" rel="nofollow noopener">Zulip - The world&rsquo;s most productive team chat</a>
+		<table>
+			<tbody>
+				<tr>
+					<td style="text-align: center;">
+						<strong>Integration</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Integrations</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Deploy Images</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Remark</strong>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">
+						<a href="https://zulipchat.com/security/" rel="nofollow">SSO</a>&nbsp;ok</td>
+					<td valign="top">it offers <a href="https://integrations.mattermost.com/" rel="nofollow">a very large collectionof integrations</a>
+					</td>
+					<td valign="top">&nbsp;</td>
+					<td valign="top">&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</li>
+	<li>
+		<a href="http://muut.io/" target="_blank" rel="nofollow noopener">muut.io</a>
+		<table>
+			<tbody>
+				<tr>
+					<td style="text-align: center;">
+						<strong>Integration</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Integrations</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Deploy Images</strong>
+					</td>
+					<td style="text-align: center;">
+						<strong>Remark</strong>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top">?</td>
+					<td valign="top">it offers <a href="https://integrations.mattermost.com/" rel="nofollow">a very large collectionof integrations</a>
+					</td>
+					<td valign="top">hosted, builder or <a href="https://muut.com/forum/#!/moot/setting-up:free-version" rel="nofollow">FreeVersion | Muut community</a>
+					</td>
+					<td valign="top">&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</li>
+</ul>
 
 5. Forum / Notes / documentation
 
