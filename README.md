@@ -60,13 +60,15 @@ as Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some so
 
 ### Matrix
 
-- Home: [Matrix.org](https://matrix.org/blog/index)
-- SSO: yes ([This Week in Matrix 2018-11-26 | Matrix.org blog][matrix20181126])
-- Integrations: many ([Try Matrix Now! | Matrix.org][trymatrix])
-- Deployment Images: yes ([Guides | Matrix.org][guidesmatrix])
-- Remarks:
+- **Home:** [Matrix.org](https://matrix.org/blog/index)
+- **SSO:** yes ([This Week in Matrix 2018-11-26 |
+  Matrix.org blog][matrix20181126])
+- **Integrations:** many ([Try Matrix Now! | Matrix.org][trymatrix])
+- **Deployment Images:** yes ([Guides | Matrix.org][guidesmatrix])
+- **Remarks:**
   - it is pushed as:
-    - [Matrix and Riot confirmed as the basis for France's Secure Instant Messenger app | Matrix.org blog][francesecure]
+    - [Matrix and Riot confirmed as the basis for France's Secure Instant
+       Messenger app | Matrix.org blog][francesecure]
     - [FOSDEM 2019 - Matrix in the French State][fosdemmatrix]
 
 [matrix20181126]: https://matrix.org/blog/2018/11/26/this-week-in-matrix-2018-11-26
