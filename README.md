@@ -1,7 +1,6 @@
 # FOSScollabTools
-
-## Q1: The reason doing this
-
+<details> 
+  <summary><h2>Q1: The reason doing this</h2></summary>
 Hello, our organization faces the same challenge since we hit the limits of the
 free plan of slack and others, so this discussion was an inducement for doing
 some research for the right alternative.  As there aren't little (luckily)
@@ -46,8 +45,13 @@ Planet][freewaretools] filled with answers to our requirements.
 [designtools]: https://github.com/LisaDziuba/Awesome-Design-Tools
 [whichselfhosted]: https://www.lowendtalk.com/discussion/118849/which-self-hosted-programs-do-you-use
 [freewaretools]: https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0
+</details>
 
-
+<details> 
+  <summary><h2>Q2: why is there propertery software listed</h2></summary>
+	At the beginning of your journey you focus to get your product done and properly don't have that much time to evaluation, set-up and administer software application as listed below. 
+As we faced the same problem, we agreed to use a commercial product to get us organized and doing the evaluation etc. parallel, switching over step by step. 
+</details>
 ## Team Chat (ex. Slack)
 
 as Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some sources I read:
