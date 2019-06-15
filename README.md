@@ -52,6 +52,7 @@ Planet][freewaretools] filled with answers to our requirements.
 	At the beginning of your journey you focus to get your product done and properly don't have that much time to evaluation, set-up and administer software application as listed below. 
 As we faced the same problem, we agreed to use a commercial product to get us organized and doing the evaluation etc. parallel, switching over step by step. 
 </details>
+
 ## Team Chat (ex. Slack)
 
 as Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some sources I read:
