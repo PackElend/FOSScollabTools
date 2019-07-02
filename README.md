@@ -61,6 +61,7 @@ as Matrix, Mattermost and Rocket.Chat and Zulip are discussed most, here some so
 - [It’stime to Riot(.im) – ToplBlog – Medium](https://medium.com/topl-blog/its-time-to-riot-im-8fb95eb39c9a)
 - [Team Chat Recommendation: Mattermost, Riot, Zulip etc. I need low RAM consumption. : selfhosted](https://www.reddit.com/r/selfhosted/comments/9s5fzq/team_chat_recommendation_mattermost_riot_zulip/)
 - why [Parity Technologies](https://www.parity.io/) switched to Matrix --> [why Team-Messenger:Ab in die Matrix! -Golem.de](https://www.golem.de/news/team-messenger-ab-in-die-matrix-1904-140850.html)
+- [An instantaneous chat platform for the ROS community - General - ROS](https://discourse.ros.org/t/an-instantaneous-chat-platform-for-the-ros-community/7794)
 
 
 ### Matrix
